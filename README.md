@@ -1,5 +1,4 @@
 <img align='left' src='https://www.freeiconspng.com/uploads/github-logo-icon-3.png' width='200"'>
-<img src="https://media.giphy.chttps://www.freeiconspng.com/uploads/github-logo-icon-3.pngom/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="center"> 
  <strong>
