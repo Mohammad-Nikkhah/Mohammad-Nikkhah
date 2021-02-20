@@ -1,4 +1,4 @@
-<img align='left' src='https://www.freeiconspng.com/uploads/github-logo-icon-3.png' width='200"'>
+<img align='left' src='https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png' width='200"'>
 
 <p align="center"> 
  <strong>
