@@ -19,9 +19,9 @@ img align='right' src='https://user-images.githubusercontent.com/5713670/8720298
 </p>
 
 🌱 I am always trying to look at things differently and come up with new ideas. 
-A former **Gymnastic National Champion** and now a **Web Developer**, with proficiency especially on the **back-end**, but having some experience on developing client-side and a lot of other stuff too :) If you want to know more about me, visit my [linkedin](https://www.linkedin.com/in/ashkanrmk/).
+A former **Gymnastic National Champion** and now a **Web Developer**, with proficiency especially on the **back-end**, but having some experience on developing client-side and a lot of other stuff too :) If you want to know more about me.
 
-⚡ If you’d like to get in touch, feel free to say hello through any of the social medias via `ashkanRmk` handle or visit my [blog](https://ashkanam.ir/blog/).
+⚡ If you’d like to get in touch, feel free to say hello through any of the social medias via `Mohammad Nikkahh` handle or visit my [blog](https://ashkanam.ir/blog/).
 
 
  <a href="https://www.linkedin.com/in/ashkanRmk/" target="_blank">
