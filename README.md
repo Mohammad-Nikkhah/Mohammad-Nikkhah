@@ -9,11 +9,8 @@ img align='right' src='https://user-images.githubusercontent.com/5713670/8720298
 </p>
 
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="43" height="43"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/php-original-wordmark.svg" alt="docker" width="40" height="40" />
+  
+  <img src="https://www.flaticon.com/svg/vstatic/svg/528/528261.svg?token=exp=1613842406~hmac=beb0b32631bebd8a8f6cc8aa68ec0575" alt="php" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="43" height="43" />
   
 </p>
@@ -21,15 +18,4 @@ img align='right' src='https://user-images.githubusercontent.com/5713670/8720298
 🌱 I am always trying to look at things differently and come up with new ideas. 
 A former **Gymnastic National Champion** and now a **Web Developer**, with proficiency especially on the **back-end**, but having some experience on developing client-side and a lot of other stuff too :) If you want to know more about me.
 
-⚡ If you’d like to get in touch, feel free to say hello through any of the social medias via `Mohammad Nikkahh` handle or visit my [blog](https://ashkanam.ir/blog/).
 
-
- <a href="https://www.linkedin.com/in/ashkanRmk/" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="45" height="45" />
- </a>
-  
- <a href="https://www.youtube.com/HappyDeveloper" target="_blank">
-  <img src="https://img.icons8.com/cute-clipart/50/000000/youtube.png" width="45" height="45"/>
- </a>
-   
- <a href="https://www.instagram.com/happy_developer/" target="_blank">
