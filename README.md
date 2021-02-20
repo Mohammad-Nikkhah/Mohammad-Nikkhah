@@ -1,4 +1,6 @@
-<img align='left' src='https://raw.githubusercontent.com/tolgacesur/tolgacesur/master/me.gif' width='200"'>
+  <a href="url"><img src="https://raw.githubusercontent.com/tolgacesur/tolgacesur/master/me.gif
+" height="auto" width="200" style="border-radius:50%"></a>
+
 
 <p align="center"> 
  <strong>
