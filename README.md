@@ -1,5 +1,5 @@
-<img align='left' src='https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif' width='200"'>
-** Hi there **<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img align='left' src='https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif' width='200"'>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="center"> 
  <strong>
