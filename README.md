@@ -40,4 +40,7 @@
 🌱 I am Front-end Developer 
 
  I am interested in the world of web and technology
+ 
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Nikkhah&show_icons=true&theme=highcontrast)
 
