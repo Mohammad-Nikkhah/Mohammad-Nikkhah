@@ -31,5 +31,5 @@
  
 </p>
 
-🌱 I am web Developer 
+🌱 I am Front-end Developer 
 
