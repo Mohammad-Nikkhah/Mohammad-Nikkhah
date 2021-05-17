@@ -17,10 +17,7 @@
   
   <img src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" alt="javascript" width="40" height="40"/>
   <img
-  
-   <img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1620369946~hmac=742f78e973ae3aadcf7c4925bb6a3cc3" alt="javascript" width="40" height="40"/>
-  <img
-  
+ 
   
  
    <img src="https://camo.githubusercontent.com/875b2967090ac970937698e92e1bfeefdc6168b9afb428aabfe321e19d549d74/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e75782e737667" alt="linux" width="40" height="40"/>
