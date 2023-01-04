@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm mohamamd Nikkkah</h1>
+<h3 align="center">Front-End Developer at shopfa.com</h3>
+
 <p align="left"> <a href="https://twitter.com/nikdev1381" target="blank"><img src="https://img.shields.io/twitter/follow/nikdev1381?logo=twitter&style=for-the-badge" alt="nikdev1381" /></a> </p>
+
+- 🔭 I’m currently working on [Shopfa](shopfa.com)
 
 - 🌱 I’m currently learning **React**
 
